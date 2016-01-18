@@ -1,0 +1,8 @@
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\bin\Debug\AntiBamcof.exe
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\bin\Debug\AntiBamcof.pdb
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\obj\Debug\AntiBamcof.Form1.resources
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\obj\Debug\AntiBamcof.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\obj\Debug\AntiBamcof.csproj.GenerateResource.Cache
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\obj\Debug\AntiBamcof.exe
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AntiBamcof\AntiBamcof\obj\Debug\AntiBamcof.pdb
